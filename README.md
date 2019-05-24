@@ -1,4 +1,6 @@
-在springboot的Controller中的请求1. rest json api 2. 页面
+在springboot的Controller中的请求
+    1. rest json api 
+    2. 页面
 请求返回接口形式
 {
     code: 提示编码,
